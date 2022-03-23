@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning front-end developing
-- 😄 Pronouns: she/her
+- 🤓 I’m currently learning front-end developing
+- ✌️ Pronouns: she/her
 
 ##
 
