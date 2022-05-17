@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🤓 I’m currently learning front-end developing
+- 🤓 I’m currently learning software developing
 - ✌️ Pronouns: she/her
 
 ##
